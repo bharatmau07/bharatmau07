@@ -1,5 +1,5 @@
 <h1>Bharat Vishwakarma <img src="https://komarev.com/ghpvc/?username=bharatmau07&label=Profile%20views&color=0e75b6&style=flat" alt="bharatmau07" /> </h1>
-<p>Hi 👋, I'm a passionate full-stack developer with expertise in both frontend and backend development. My specialization lies in utilizing Node.js and Express for server-side scripting and API development. Additionally, I excel in creating intuitive user interfaces using frontend frameworks like React and Angular.</p>
+<p>Hi 👋, I'm a passionate full-stack developer with expertise in both frontend and backend development. My specialization lies in utilizing Node.js and Express for server-side scripting and API development. Additionally, I'm good at making user interfaces using technologies like React, Angular, HTML, CSS, etc.</p>
 
 - 🔭 I’m currently working on <code>JavaScript, Node, Express, React, Angular</code>
 
