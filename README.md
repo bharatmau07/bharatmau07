@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <code>JavaScript, Node, Express, React, Angular</code>
 
-- 🌱 I’m currently learning <code>AWS, CICD Pipeline, Docker, Jenkins</code>
+- 🌱 I’m currently learning <code>AWS, CICD Pipeline, Docker, Jenkins, DSA</code>
 
 - 💬 Ask me about <code>JavaScript, TypeScript, React, Angular, Node, Express, MySQL, PHP, Laravel etc</code>.
 <br><br>
